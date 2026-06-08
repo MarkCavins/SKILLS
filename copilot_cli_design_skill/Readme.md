@@ -1,6 +1,6 @@
 # Design Template Generator Skill for GitHub Copilot CLI
 
-This scaffold creates a **GitHub Copilot CLI skill** that generates consistent design templates for **Word**, **PDF**, and **PowerPoint** assets using the visual language extracted from the attached Chef pitch decks.
+This scaffold creates a **GitHub Copilot CLI skill** that generates consistent design templates for **Word**, **PDF**, and **PowerPoint** assets using the visual language extracted from the attached pitch decks.
 
 ## What this skill does
 
