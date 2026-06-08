@@ -1,0 +1,79 @@
+{
+  "name": "Chef AI Design System",
+  "source_files": [
+    "Chef_AI_Pitch_Deck.pptx",
+    "Chef_AI_Pitch_Deck_NVIDIA.pptx"
+  ],
+  "colors": {
+    "background_primary": "#1B2773",
+    "accent_gold": "#F5C42C",
+    "text_primary": "#FFFFFF",
+    "text_secondary": "#334466",
+    "text_muted": "#7788AA",
+    "support_blue": "#99AACC",
+    "support_blue_alt": "#AABBEE",
+    "success": "#20C7A8",
+    "warning": "#E86B5F"
+  },
+  "typography": {
+    "font_primary": "Aptos",
+    "font_secondary": "Aptos",
+    "ppt": {
+      "title_pt": 28,
+      "subtitle_pt": 18,
+      "section_pt": 22,
+      "body_pt": 14,
+      "caption_pt": 10
+    },
+    "word": {
+      "title_pt": 24,
+      "heading1_pt": 18,
+      "heading2_pt": 14,
+      "body_pt": 11,
+      "caption_pt": 9
+    },
+    "pdf": {
+      "title_pt": 22,
+      "heading_pt": 16,
+      "body_pt": 10,
+      "caption_pt": 8
+    }
+  },
+  "spacing": {
+    "min_margin_in": 0.5,
+    "content_gutter_in": 0.25,
+    "paragraph_space_after_pt": 6,
+    "line_spacing": 1.15,
+    "max_textbox_fill_ratio": 0.85,
+    "reserve_footer_band_in": 0.35,
+    "reserve_header_band_in": 0.2
+  },
+  "charts": {
+    "style": "clean-dark",
+    "background": "#1B2773",
+    "gridlines": "#7788AA",
+    "axis": "#FFFFFF",
+    "series_palette": [
+      "#F5C42C",
+      "#20C7A8",
+      "#E86B5F",
+      "#AABBEE",
+      "#99AACC"
+    ],
+    "label_position": "outside_end",
+    "legend_position": "bottom",
+    "show_data_labels": true,
+    "max_series": 5,
+    "notes": [
+      "Prefer one highlighted series in accent gold.",
+      "Use muted gridlines and white axis labels on dark backgrounds.",
+      "Keep chart title above plot area and captions below chart in muted text.",
+      "Leave at least 12 pt between chart and adjacent text blocks to avoid overlap."
+    ]
+  },
+  "generated_assets": [
+    "output/Chef_Design_Template.docx",
+    "output/Chef_Design_Template.pptx",
+    "output/Chef_Design_Style_Guide.pdf"
+  ]
+}
