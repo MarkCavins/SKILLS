@@ -1,0 +1,36 @@
+{
+  "week_number": 1,
+  "title": "Example Office Hours Topic",
+  "subtitle": "Weekly customer office hours",
+  "duration_minutes": 45,
+  "output_name": "Week-01-example-office-hours-topic.pptx",
+  "slides": [
+    {
+      "title": "Example Office Hours Topic",
+      "bullets": [
+        "What customers will learn this week"
+      ],
+      "notes": "Welcome attendees and set expectations.",
+      "estimated_minutes": 2
+    },
+    {
+      "title": "Why this matters",
+      "bullets": [
+        "Customer challenge",
+        "Desired outcome"
+      ],
+      "notes": "Connect the source material to the audience's goals.",
+      "estimated_minutes": 4
+    },
+    {
+      "title": "Key takeaways",
+      "bullets": [
+        "Takeaway one",
+        "Takeaway two",
+        "Takeaway three"
+      ],
+      "notes": "Recap and invite questions.",
+      "estimated_minutes": 4
+    }
+  ]
+}
